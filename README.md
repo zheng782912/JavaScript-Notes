@@ -1,2 +1,2 @@
-# Javascript-study-notes
-Study Notes
+# JS-Notes
+
